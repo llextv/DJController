@@ -7,6 +7,7 @@ created_at: "2026-06-20"
 
 # June 20: Defining system requirements and main BOM:
 - 1 * MCP23017 (https://fr.aliexpress.com/item/1005006988728405.html) = 2.89€
+![alt text](image-1.png)
 - 2 * Incremental Rotary AB 2 (600P) (https://fr.aliexpress.com/item/32877702646.html) = 2 * 14.19 = 28,38€
 - 1 * EC11 (https://fr.aliexpress.com/item/1005001423308166.html) = 2.42€
 - 8 * WH148 (https://fr.aliexpress.com/item/1005006271589247.html) = 2 * 1.60 = 3.2€
