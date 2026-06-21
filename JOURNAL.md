@@ -35,3 +35,15 @@ Why adding MCP23017 and CD74HC4067 ?
 > Because arduino pro micro havent enough PIN
 
 **Total time spent: 3 hours**
+
+# June 21: Electrical scheme:
+
+This is the electrical scheme make me around 4H30 for make, remake, ...
+Always problems:
+- No enough pin -> remake all for adding extension card or reorgazine
+- GND & VCC connections
+...
+
+![alt text](image.png)
+
+**Total time spent: 4 hours**
