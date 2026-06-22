@@ -58,4 +58,6 @@ We need to go in Preferences > Controller > MIDI > Add Controller > Other / Unko
 We need to install in software: MIDIArduino for be detected from the PC
 
 I've test with an other ESP card at home but It's very difficult to be detected in PC (maybe because I've ESP-WROOM-32 ?)
+
+![alt text](https://www.gotronic.fr/media/cache/sylius_shop_product_original/20/25/c357de6f965244973f06b18af2f4.jpg.webp)
 **Total time spent: 1 hours 15 minutes**
