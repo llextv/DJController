@@ -47,3 +47,15 @@ Always problems:
 ![alt text](image.png)
 
 **Total time spent: 4 hours**
+
+# June 22: Software reflection
+
+I need to make reflection about software,
+
+Dj turntable need to be connected with an USB table to PC and configured in virtual DJ.
+We need to go in Preferences > Controller > MIDI > Add Controller > Other / Unkown > Select USB Port > Edit > [assign all key in virtual dj key]
+
+We need to install in software: MIDIArduino for be detected from the PC
+
+I've test with an other ESP card at home but It's very difficult to be detected in PC (maybe because I've ESP-WROOM-32 ?)
+**Total time spent: 1 hours 15 minutes**
