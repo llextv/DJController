@@ -61,3 +61,15 @@ I've test with an other ESP card at home but It's very difficult to be detected 
 
 ![alt text](https://www.gotronic.fr/media/cache/sylius_shop_product_original/20/25/c357de6f965244973f06b18af2f4.jpg.webp)
 **Total time spent: 1 hours 15 minutes**
+
+# June 23: Casing Pt 1
+I have started to make casing for DJ Controller on fusion 360
+This is actually scheme (with all documentation of all component size)
+Objectives:
+- Little DJ Controller
+- Enough buttons and fonctions
+- Usable in real condition
+
+![alt text](image-2.png)
+
+**Total time spent: 2.5 hours**
